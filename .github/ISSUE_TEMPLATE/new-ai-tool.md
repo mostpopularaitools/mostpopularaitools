@@ -1,7 +1,7 @@
 ---
 name: New AI Tool
 about: This template is used for users to submit new public AI tool
-title: "[Tool Submission] [Type] AI TOOL NAME"
+title: "[NEW TOOL] [Type] AI TOOL NAME"
 labels: ''
 assignees: mostpopularaitools
 
